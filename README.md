@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Al ugibi Saif:
-🔭 I’m currently working on a project<br>- 🌱 I’m currently learning programming<br>- 💬 Ask me about every thing<br>- 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/saif-al-ugibi-a867562a9/<br>- 😄 I'm studying at Artevelde University of Applied Sciences in Ghent https://www.arteveldehogeschool.be/en<br>- 🏠 I live in Ghent, oost-vlaanderen<br>- 👨‍🎓I learned HTML, CSS, JavaScript, Express.js, Node.js,Knex.js and React.js during this academic year.<br>- 
+🔭 I’m currently working on a project<br>- 🌱 I’m currently learning programming<br>- 💬 Ask me about every thing<br>- 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/saif-al-ugibi-a867562a9/<br>- 😄 I'm studying at Howest University of Applied Sciences in Ghent https://www.howesthogeschool.be/en<br>- 🏠 I live in Ghent, oost-vlaanderen<br>- 👨‍🎓I learned HTML, CSS, JavaScript, Node.js,Knex.js and React.js during this academic year.<br>- 
 
 
 ## 🌐 Socials:
